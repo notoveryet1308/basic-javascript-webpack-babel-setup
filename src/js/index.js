@@ -1,0 +1,1 @@
+console.log('BASIC JAVASCRIPT WEBPACK BABEL SETUP 😍😍😍');
